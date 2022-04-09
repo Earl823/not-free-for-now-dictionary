@@ -1,0 +1,33 @@
+body{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.title{
+    position: fixed;
+    background-color: #1B1A17;
+    width:100%;
+}
+h1{
+    color: whitesmoke;
+    margin-left: 20px;
+}
+.content{
+    position: relative;
+    top: 300px;
+}
+.content input{
+    width: 50vh;
+    height: 30px;
+    color: #B20600;;
+}
+.content button{
+    background-color: #B20600;
+    border: none;
+    color: white;
+    height: 30px;
+}
+.dataTitle{
+    color: #1B1A17;
+}
